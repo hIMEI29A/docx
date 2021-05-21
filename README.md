@@ -1,5 +1,7 @@
 ## Simple Google Go (golang) library for replace text in microsoft word (.docx) file
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/hIMEI29A/docx.svg)](https://pkg.go.dev/github.com/hIMEI29A/docx)
+
 The following constitutes the bare minimum required to replace text in DOCX document.
 ``` go
 
